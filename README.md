@@ -4,7 +4,8 @@ Json namespace provides functionality for serializing to and deserializing from 
 
 [![](https://img.shields.io/badge/License-MIT-critical?style=plastic&logo=appveyor&logoColor=a70023&labelColor=lightblue&color=471e61)](https://github.com/ArnobMahmud/Weather-Web-App/blob/master/LICENSE)&nbsp;
 [![developed-by-arnob](https://img.shields.io/badge/Developed%20by-Arnob%20Mahmud-1f425f.svg?style=plastic&logo=visual-studio-code&logoColor=007ACC&labelColor=beb4ab)](https://github.com/ArnobMahmud/)&nbsp;
-[![made-with-node](https://img.shields.io/badge/Made%20with-NodeJs-1f425f.svg?style=plastic&logo=Node.Js&color=e1d1eb&logoColor=faed3e&labelColor=339933)](https://nodejs.org/en/)
+[![made-with-node](https://img.shields.io/badge/Made%20with-NodeJs-1f425f.svg?style=plastic&logo=Node.Js&color=e1d1eb&logoColor=faed3e&labelColor=339933)](https://nodejs.org/en/)&nbsp;
+[![Netlify Status](https://api.netlify.com/api/v1/badges/87105105-5b1b-4eef-916f-016b93fe19b2/deploy-status)](https://app.netlify.com/sites/jsonserializationtest/deploys)
 
 ![1](https://user-images.githubusercontent.com/60808266/233086089-4a320a5b-92a6-46a0-82a7-cbcf05eac277.PNG) <br> <br> <br>
 ![2](https://user-images.githubusercontent.com/60808266/233086078-132a8524-c308-4f98-9daf-4473b79d112c.PNG)
