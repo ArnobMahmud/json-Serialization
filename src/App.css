@@ -91,3 +91,8 @@ body::-webkit-scrollbar-thumb
   .desc::-webkit-scrollbar-track {
     background: var(--thumb);
   }
+
+  .footer{
+    margin: 10px 0px;
+    text-align: center;
+  }

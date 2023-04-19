@@ -1,19 +1,23 @@
-import LocalFetch from "./components/local/localfetch";
-import ServerFetch1 from "./components/serverfetch1";
-import ServerFetch2 from "./components/serverfetch2";
+import Footer from "./components/includes/footer";
+import LocalFetch1 from "./components/local/localfetch1";
+import LocalFetch2 from "./components/local/localfetch2";
+import ServerFetch1 from "./components/server/serverfetch1";
+import ServerFetch2 from "./components/server/serverfetch2";
 
 const App = () => {
   return (
     <div className="App">
       <div className="row">
         <div className="col-xl-5 col-md-6 col-sm-12">
-          <LocalFetch />
+          <LocalFetch1 />
+          <LocalFetch2 />
         </div>
         <div className="col-xl-7 col-md-6 col-sm-12">
           <ServerFetch1 />
           <ServerFetch2 />
         </div>
       </div>
+      <Footer />
     </div>
   );
 };
