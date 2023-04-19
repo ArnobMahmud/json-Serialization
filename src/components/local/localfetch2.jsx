@@ -77,10 +77,10 @@ const LocalFetch1Style = styled.div`
   @media (max-width: 767px) {
     .card {
       overflow-y: hidden;
-      height: 700px;
+      height: 750px;
     }
     .infocard {
-      height: 450px;
+      height: 500px;
     }
   }
 `;

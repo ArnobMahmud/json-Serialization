@@ -67,10 +67,10 @@ const ServerFetch1Style = styled.div`
   @media (max-width: 767px) {
     .card {
       overflow-y: hidden;
-      height: 900px;
+      height: 950px;
     }
     .infocard {
-      height: 650px;
+      height: 700px;
     }
   }
 `;
